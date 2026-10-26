@@ -1,4 +1,4 @@
-package com.example.demo.Phan1;
+package com.example.demo.buoi1.Phan1;
 
 import java.util.Scanner;
 

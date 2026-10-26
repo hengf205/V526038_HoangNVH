@@ -1,4 +1,4 @@
-package com.example.demo.Phan2.Bai2;
+package com.example.demo.buoi1.Phan1.Phan2.Bai2;
 
 public class HinhChuNhat {
 

@@ -1,6 +1,7 @@
-package com.example.demo.Phan2.Bai1;
+package com.example.demo.buoi1.Phan1.Phan2.Bai2;
 
 public class Diem {
+
     private double x;
     private double y;
 
@@ -10,22 +11,12 @@ public class Diem {
     }
 
 
+
     public double getX() {
         return x;
     }
 
-
-    public void setX(double x) {
-        this.x = x;
-    }
-
-
     public double getY() {
         return y;
-    }
-
-
-    public void setY(double y) {
-        this.y = y;
     }
 }
