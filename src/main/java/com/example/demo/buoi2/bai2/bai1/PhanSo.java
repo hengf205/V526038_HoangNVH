@@ -1,4 +1,4 @@
-package com.example.demo.buoi2.bai1;
+package com.example.demo.buoi2.bai2.bai1;
 
 public class PhanSo {
 
